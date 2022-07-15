@@ -1,0 +1,1 @@
+# shop-aws-rs-be
