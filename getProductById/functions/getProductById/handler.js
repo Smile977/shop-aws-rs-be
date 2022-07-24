@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports.getProductById = async (event) => {
   return {
     statusCode: 200,
